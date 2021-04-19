@@ -11,7 +11,6 @@ public class PlayerMovement : MonoBehaviour
 
     public void FixedUpdate()
     {
-        //Fysik
         Move();
     }
 
