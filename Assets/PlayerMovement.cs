@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
 
     public Rigidbody2D rb;
     public Animator animator;
-
+    public Camera viewCamera;
     Vector2 movement;
 
     void Update()
